@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://epobeija.github.io/sitemap_index.epobeija
